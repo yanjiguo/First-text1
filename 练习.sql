@@ -1,3 +1,4 @@
+--颜继国
 -- Create table 学生信息
 create table HAND_STUDENT
 (
